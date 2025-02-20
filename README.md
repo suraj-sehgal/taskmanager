@@ -1,6 +1,45 @@
-# Getting Started with Create React App
+# Task Management Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive task management application built with React and Tailwind CSS. This application helps users organize and track their tasks with features like priority levels, due dates, and task status management.
+
+## Features
+
+- **Task Management**
+  - Create, edit, and delete tasks
+  - Set task priority (High, Medium, Low)
+  - Set due dates
+  - Mark tasks as complete/incomplete
+  - Task description support
+
+- **Organization**
+  - View tasks in three categories: Upcoming, Overdue, and Completed
+  - Tab-based navigation between task categories
+  - Search functionality to find specific tasks
+  - Filter tasks by priority and completion status
+
+- **User Interface**
+  - Modern dark theme
+  - Responsive design for all screen sizes
+  - Clean and intuitive interface
+  - Sidebar navigation
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- Lucide React Icons
+- Local Storage for data persistence
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+### Installation
+
+1. Clone the repository:
+cd taskmanager
 
 ## Available Scripts
 
